@@ -98,15 +98,6 @@ I'm a 2026 Computer Science and Engineering graduate interested in building prac
 
 ---
 
-### 📊 GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amitshah12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshah12&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
----
-
 ### 💡 What I'm Focusing On
 
 - Strengthening full-stack development skills.
